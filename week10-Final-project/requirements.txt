@@ -1,3 +1,0 @@
-rich
-google-genai
-python-dotenv
